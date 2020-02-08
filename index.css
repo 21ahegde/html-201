@@ -1,0 +1,12 @@
+body {
+    background-color: #000000; 
+}
+
+#space-jam{
+    border: 2px solid white;
+    width: 496px;
+    height: 420px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto; 
+}
